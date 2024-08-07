@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Test for Docker CD
+        Test for CI v3
       </p>
     </>
   )
